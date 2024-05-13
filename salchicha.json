@@ -1,0 +1,20 @@
+[
+    {
+        "corte":1,
+        "prueba_corta":15,
+        "prueba_parcial":15,
+        "definitiva":15
+    },
+    {
+        "corte":2,
+        "prueba_corta":18,
+        "prueba_parcial":15,
+        "definitiva":15
+    },
+    {
+        "corte":3,
+        "prueba_corta":10,
+        "prueba_parcial":15,
+        "definitiva":15
+    }
+]
